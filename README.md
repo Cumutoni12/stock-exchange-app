@@ -26,11 +26,6 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -73,11 +68,11 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+
 - [Stock Exchange Metrics App](https://stock-exchange-metrics-app.vercel.app/)
 
-
-
 ## Loom Presentation Video Link
+
 - [Project Documentation](https://www.loom.com/share/7f50226cbb774d77923855cc24bd6b60)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,7 +91,6 @@ In order to run this project you need:
 - Git installed on the Computer
 - Nodejs installed on the Computer
 - A browser installed on the Computer
-
 
 ### Install
 
@@ -118,7 +112,6 @@ To run tests, run the following command:
 - `npm run test`
 - This will run all tests on your local machine
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -131,21 +124,8 @@ To run tests, run the following command:
 
 - GitHub: [@Clarisse Umutoni](https://github.com/Cumutoni12)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-
-
-
-
-
-
-
-
-
